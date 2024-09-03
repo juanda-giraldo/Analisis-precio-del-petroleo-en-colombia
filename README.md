@@ -1,5 +1,5 @@
 # Análisis sobre la producción de petróleo en Colombia desde (2018 – 2021)
-[![Producci-n-de-Petr-leo-en-Colombia-desde-2018-2021.png](https://i.postimg.cc/kgtv8t7F/Producci-n-de-Petr-leo-en-Colombia-desde-2018-2021.png)](https://postimg.cc/PCTDnJpP)
+![Producci-n-de-Petr-leo-en-Colombia-desde-2018-2021.png](https://i.postimg.cc/kgtv8t7F/Producci-n-de-Petr-leo-en-Colombia-desde-2018-2021.png)
 
 ### Para realizarlo se utilizaron las siguientes herramientas
 
