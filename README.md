@@ -12,4 +12,5 @@ Tambien encontrara un archivo txt en el repositorio de GITHUB, donde estan cada 
 
 ### NOTA IMPORTANTE
 
-Este análisis se realizó con el fin de **poner en práctica el nuevo conocimiento adquiridos** en el lenguaje de programación **Python**, sus bibliotecas para la ciencia de datos y el aprendizaje de las herramientas de **GIT y GITHUB** para el manejo de versiones y la publicación de este análisis.
+Este análisis se realizó en **agosto de 2024** con el fin de **poner en práctica el nuevo conocimiento adquiridos** en el lenguaje de programación **Python**, sus bibliotecas para la ciencia de datos y el aprendizaje de las herramientas de **GIT y GITHUB** para el manejo de versiones y la publicación de este análisis.
+
