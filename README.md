@@ -8,7 +8,9 @@
   
 Los datos se obtuvieron desde la página web www.datos.gov.co donde refieren que fueron dados por la **ANH**. Utilizando una base de datos para cada año en formato .json.
 
-Tambien encontrara un archivo txt en el repositorio de GITHUB, donde estan cada uno de los links de donde se obtuvieron las bases de datos.
+También encontrarás un archivo .txt en el repositorio de GitHub, donde están cada uno de los enlaces de donde se obtuvieron las bases de datos.
+
+También se encuentra un archivo explicando el análisis que se realizó en **formato PDF** con el nombre 'Producción de Petróleo (2018-2021)
 
 ### NOTA IMPORTANTE
 
